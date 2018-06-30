@@ -18,6 +18,8 @@
     	echo "$norte Norte <br>
     		  $sur	Sur <br>
     		  $centro Centro<br>
+
+    		  Taller Php
     		";
 
 
